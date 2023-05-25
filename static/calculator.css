@@ -1,0 +1,41 @@
+h3{
+    color: blueviolet;
+    border: blueviolet double 2px;
+    width: 70%;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+input{
+    margin:10px;
+    padding: 20px;
+    width: 70%;
+    text-align: left;
+}
+
+button
+{
+    margin: 10px;
+    padding: 20px;
+    width: 76%;
+    background-color: limegreen;
+    color: white;
+    border: none;
+    margin-bottom: 20px;
+}
+button:hover{
+    background-color:green;
+
+}
+*{
+    text-align: center;
+    
+}
+fieldset{
+    width: 50%;
+    margin: 0;
+    transform: translate(50%, 50%);
+    margin-top: -10%;
+    padding: 20px;
+}
